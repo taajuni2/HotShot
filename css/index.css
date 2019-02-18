@@ -1,3 +1,9 @@
 .image-container {
   margin-bottom: 50px;
 }
+
+.image-descr {
+  height: 200px;
+  width: auto;
+  text-align: left;
+}
