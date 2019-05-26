@@ -7,3 +7,24 @@
   width: auto;
   text-align: left;
 }
+
+.images {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  margin-top: 100px;
+  color: navy;
+}
+
+.live-stream {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.col-sm-4 {
+  margin-top: 100px;
+}
