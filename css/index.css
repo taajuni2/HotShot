@@ -13,7 +13,6 @@
   flex-flow: row;
   justify-content: center;
   margin-top: 100px;
-  color: navy;
 }
 
 .live-stream {
@@ -23,22 +22,20 @@
   justify-content: center;
   margin-top: 50px;
   margin-bottom: 100px;
+  background-color: #EFFCFE;
+  margin-bottom: 100px;
 }
 
 .col-sm-4 {
   margin-top: 100px;
-  border: 1px solid lightgray;
+  border: 1px solid #C0CACC;
   padding: 30px;
-  box-shadow: 3px 6px 6px lightgray;
+  box-shadow: 3px 6px 6px #C0CACC;
 }
 
 .title {
-  display: block;
-  position: absolute;
-  left: 0;
-  right: 0;
-  text-align: center;
-  margin-top: 2000px;
+  margin-top: 70px;
+  
 }
 
 .video-stream {
@@ -48,4 +45,28 @@
   justify-content: center;
   margin-top: 50px;
   margin-bottom: 100px;
+  background-color: #C0CACC;
 }
+
+nav {
+  background-color: #527980 !important;
+  margin-bottom: 50px;
+
+}
+
+a.nav-link{
+  color: #EFFCFE !important;
+}
+
+.navbar-brand{
+  color: #EFFCFE !important;
+}
+
+.title2{
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* #787E80, #A3F3FF, #EFFCFE, #527980, #C0CACC* /
